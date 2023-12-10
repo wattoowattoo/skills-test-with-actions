@@ -14,10 +14,13 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 </header>
 
 <!--
+
   <<< Author notes: Step 5 >>>
+
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+
 
 ## Step 5: Merge your pull request
 
